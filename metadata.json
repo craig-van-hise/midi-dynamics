@@ -1,0 +1,6 @@
+{
+  "name": "# MIDI Dynamics Processor",
+  "description": "A compact Web MIDI compressor/limiter for real-time velocity and CC manipulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
